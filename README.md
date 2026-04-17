@@ -1,2 +1,3 @@
-# HaqBot
-​"بوت تلجرام قانوني (اعرف حقك) يعتمد على الذكاء الاصطناعي لتقديم استشارات قانونية مصرية دقيقة."
+python-telegram-bot
+google-generativeai
+flask
