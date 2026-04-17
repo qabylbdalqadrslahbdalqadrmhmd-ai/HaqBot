@@ -1,3 +1,3 @@
-
-# HaqBot
-A professional AI legal assistant for Egyptian law, powered by Gemini.
+python-telegram-bot
+google-generativeai
+flask
